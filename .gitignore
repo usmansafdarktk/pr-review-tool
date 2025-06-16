@@ -1,0 +1,23 @@
+# Secrets and environment files
+.env
+
+# ChromaDB vector database
+chroma_db/
+
+# Python cache files and compiled code
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+
+# JetBrains/VS Code IDE project settings
+.idea/
+.vscode/
+
+# Output/generated files (not source code)
+review_chunks.jsonl
+
+# Misc/OS generated files
+.DS_Store
+
