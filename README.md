@@ -1,11 +1,11 @@
-# 🕵️‍♂️ GitHub PR Review Assistant
+# GitHub PR Review Assistant
 
 A toolkit to **extract, structure, and semantically search code review feedback** from any GitHub repository’s pull requests (PRs).  
 Helps you learn from historical reviews, avoid repeating past mistakes, and automate best-practice checks on new code.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Fetches all PRs** (open/closed) from a GitHub repository.
 - **Extracts all review summaries** (approve, request changes, comment) for each PR.
@@ -19,7 +19,7 @@ Helps you learn from historical reviews, avoid repeating past mistakes, and auto
 
 ---
 
-## 📦 Files & Scripts
+## Files & Scripts
 
 | Script/File                    | Purpose                                                                                 |
 | ------------------------------ | --------------------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@ Helps you learn from historical reviews, avoid repeating past mistakes, and auto
 
 ---
 
-## 🛠️ Setup
+## Setup
 
 1. **Clone this repo and navigate to the directory.**
 2. **Install dependencies:**
@@ -50,7 +50,7 @@ Helps you learn from historical reviews, avoid repeating past mistakes, and auto
 
 ---
 
-## ⚙️ Usage
+## Usage
 
 ### 1. **Fetch and Structure All PR Reviews**
 ```bash
