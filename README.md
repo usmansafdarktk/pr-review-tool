@@ -89,6 +89,6 @@ A GitHub personal access token (for API)
 Free Hugging Face account + Inference API token (for LLM-powered review)
 See requirements.txt for packages
 
-###Feedback / Contributions
+### Feedback / Contributions
 Pull requests and issues are welcome!
 If you have ideas, find bugs, or want to add UI (Streamlit etc), open an issue or PR.
